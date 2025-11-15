@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>© 2025 Basisinitiative für Privacy und Security, Echo Lex</copyright>
-    <lastBuildDate>Sat, 15 Nov 2025 13:13:18 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 16:07:26 +0100</lastBuildDate>
     <atom:link href="https://haskie-lambda.github.io/priv-sec-init/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Impressum</title>
+      <link>https://haskie-lambda.github.io/priv-sec-init/imprint/</link>
+      <pubDate>Sat, 15 Nov 2025 16:07:26 +0100</pubDate>
+      <guid>https://haskie-lambda.github.io/priv-sec-init/imprint/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Offenlegung gemäß § 25 MedienG&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Herausgeber und verantwortlich für die Inhalte der unter der URL &lt;a href=&#34;https://haskie-lambda.github.io/priv-sec-init/&#34;&gt;https://haskie-lambda.github.io/priv-sec-init/&lt;/a&gt; erreichbaren internen Seiten, nicht jedoch für den Inhalt externer Webseiten, ist:&lt;/p&gt;&#xA;&lt;p&gt;Zeitschrift für internationale Solidarität, zH Echo Lex&#xA;Stiftgasse 8, 1070 Wien, ZVR: 1334402102&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:it-against-surveillance@proton.me&#34;&gt;it-against-surveillance@proton.me&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Blattlinie:&lt;/strong&gt; siehe &lt;a href=&#34;https://haskie-lambda.github.io/priv-sec-init/about/&#34;&gt;Über uns&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Es handelt sich bei der Initiative nicht um einen eigenen Verein. Die Initiative&#xA;wird betrieben durch die &lt;a href=&#34;https://linkswende.org/impressum/&#34;&gt;Zeitschrift für internationale Solidarität&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Bilder&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bilder, die nicht gekennzeichnet, mit „Linkswende jetzt“ oder mit „Initiative für Privacy und Security“ gekennzeichnet sind, dürfen ohne vorherige ausdrückliche Erlaubnis des Medieninhabers „Zeitschrift für internationale Solidarität“ weder veröffentlicht oder verarbeitet werden, sei dies zu gewerblichen oder anderen Zwecken. Alle Rechte vorbehalten.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Kontakt</title>
       <link>https://haskie-lambda.github.io/priv-sec-init/contact/</link>
