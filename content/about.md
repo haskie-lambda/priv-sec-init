@@ -27,3 +27,5 @@ für starke, selbstbewusste Betriebsratsstrukturen.
 Wir fordern die Rücknahme des „Bundestrojaner“-Gesetzes, der
 Stadtraumüberwachung in Wien und geplanten sowie ähnlichen Vorhaben wie dem Aufbrechen der
 Ende-zu-Ende Verschlüsselung auf EU-Ebene.
+
+![Logo "Sie Spionieren, Wir Blockieren"](/images/logo.svg?width=150#center)
