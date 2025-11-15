@@ -1,0 +1,40 @@
+baseURL = 'https://haskie-lambda.github.io/priv-sec'
+languageCode = 'de-at'
+title = 'Basisinitiative für Privacy und Security'
+author = "Echo Lex"
+copyright = "© 2025 Basisinitiative für Privacy und Security, Echo Lex"
+theme = 'paper'
+
+[params]
+  color = 'linen'
+  twitter = 'echo_v_lex'
+  rss = true
+
+  name = 'Um was es uns geht:'
+  avatar = 'aufruf_sharepic.webp'                 # gravatar email or image url
+  bio = '''
+  Wir wollen, dass die GPA mit Streikandrohung den Rückzug des
+  Bundestrojaner-Beschlusses und den Stopp der Innenstadtüberwachung fordert.
+  Nicht nach dem Motto "Fair Play, FAIR PAY". Überwachung und ausgehebelte
+  Verschlüsselung sind nicht "Fair". Fordern wir anstattdessen nach dem Motto
+  „Sie spionieren, Wir blockieren“ Privatsphäre und faire Löhne! Hier fidest
+  du, Infos darüber, was wir bereits gemacht haben:
+  '''
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "Über uns"
+    url = "/about"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Kontakt"
+    url = "/contact"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
