@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Basisinitiative für Privacy und Security</title>
-    <link>https://haskie-lambda.github.io/priv-sec-init/posts/</link>
+    <link>http://localhost:1313/priv-sec-init/posts/</link>
     <description>Recent content in Posts on Basisinitiative für Privacy und Security</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>© 2025 Basisinitiative für Privacy und Security, Echo Lex</copyright>
     <lastBuildDate>Fri, 07 Nov 2025 12:34:06 +0100</lastBuildDate>
-    <atom:link href="https://haskie-lambda.github.io/priv-sec-init/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/priv-sec-init/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leser:innenbrief für Linkswende</title>
-      <link>https://haskie-lambda.github.io/priv-sec-init/posts/leserinnenbrief-lw/</link>
+      <link>http://localhost:1313/priv-sec-init/posts/leserinnenbrief-lw/</link>
       <pubDate>Fri, 07 Nov 2025 12:34:06 +0100</pubDate>
-      <guid>https://haskie-lambda.github.io/priv-sec-init/posts/leserinnenbrief-lw/</guid>
+      <guid>http://localhost:1313/priv-sec-init/posts/leserinnenbrief-lw/</guid>
       <description>&lt;p&gt;Als Software Ingenieurin (Haskell-Team bei RISE in Wien), der etwas an Privacy liegt, bin ich entsetzt:&#xA;Am 09.07.2025 beschließt der Nationalrat erneut den (schon einmal für verfassungswidrig erklärten) Bundestrojaner, in der zweiten Oktoberwoche versucht die EU erneut die Ende-zu-Ende-Verschlüsselung für Messengerdieste auszuhebeln (verschiebt die Abstimmung aber) und am 20.10. geht ein Gesetzesentwurf für das Einführen flächendeckender Überwachung in Wien in die Begutachtungsphase. Diese Vorstöße unter dem Vorwand von Kindesschutz, &amp;ldquo;Gefährderüberwachung&amp;rdquo; und Verkehrskontrolle lesen sich wie das Playbook für Orwells Überwachungsstaat in 1984.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aufruf zum Widerstand gegen Überwachung</title>
-      <link>https://haskie-lambda.github.io/priv-sec-init/posts/aufruf/</link>
+      <link>http://localhost:1313/priv-sec-init/posts/aufruf/</link>
       <pubDate>Wed, 05 Nov 2025 13:18:35 +0100</pubDate>
-      <guid>https://haskie-lambda.github.io/priv-sec-init/posts/aufruf/</guid>
+      <guid>http://localhost:1313/priv-sec-init/posts/aufruf/</guid>
       <description>&lt;p&gt;Zu viele Diskussionen mit den Themen Überwachung und Verschlüsselung enden mit einem &amp;ldquo;&amp;hellip; aber ich habe ja nichts zu verbergen&amp;rdquo;. Menschen in der Software-Branche wissen jedoch, dass dieses Argument das Thema verfehlt. Vor ein paar Wochen war ich wieder einmal froh Kolleg:innen zu haben, die es nicht hinnehmen würden, wenn ihre Softwarefirma sich irgendwie am geplanten Bundestrojaner beteiligen sollte. Für die Meisten von uns sind das Eintreten für Privacy und die Opposition gegen &lt;a href=&#34;https://epicenter.works/content/chatkontrolle-massenueberwachung-getarnt-als-kinderschutz&#34;&gt;das Aushebeln von Ende-zu-Ende-Verschlüsselung&lt;/a&gt;, gegen &lt;a href=&#34;https://epicenter.works/content/innenstadtueberwachung-mit-echtzeitzugriff-der-polizei-1&#34;&gt;großflächige Überwachung&lt;/a&gt; und gegen den &lt;a href=&#34;https://epicenter.works/content/bundestrojaner-beschlossen-und-jetzt&#34;&gt;Bundestrojaner&lt;/a&gt; klare, unverhandelbare Positionen.&lt;/p&gt;</description>
     </item>
   </channel>

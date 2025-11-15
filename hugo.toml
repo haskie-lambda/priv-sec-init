@@ -37,6 +37,11 @@ favicon = false
     name = "Kontakt"
     url = "/contact"
     weight = 10
+  [[menu.main]]
+    identifier = "imprint"
+    name = "Impressum"
+    url = "/imprint"
+    weight = 10
 
 [taxonomies]
 category = "categories"
