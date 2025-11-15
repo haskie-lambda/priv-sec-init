@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Basisinitiative für Privacy und Security</title>
-    <link>https://haskie-lambda.github.io/priv-sec/tags/</link>
+    <link>https://haskie-lambda.github.io/priv-sec-init/tags/</link>
     <description>Recent content in Tags on Basisinitiative für Privacy und Security</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <copyright>© 2025 Basisinitiative für Privacy und Security, Echo Lex</copyright>
-    <atom:link href="https://haskie-lambda.github.io/priv-sec/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://haskie-lambda.github.io/priv-sec-init/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

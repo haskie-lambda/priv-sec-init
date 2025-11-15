@@ -1,4 +1,4 @@
-baseURL = 'https://haskie-lambda.github.io/priv-sec'
+baseURL = 'https://haskie-lambda.github.io/priv-sec-init/'
 languageCode = 'de-at'
 title = 'Basisinitiative für Privacy und Security'
 author = "Echo Lex"
