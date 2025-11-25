@@ -4,11 +4,12 @@ draft = false
 title = 'Orientierungstreffen und Referat „Überwachungskapitalismus“'
 +++
 
-Es ist soweit! **Am 16. Dezember um 19:00 treffen wir uns in der Kolingasse 11.**
-Dort werden wir ein Referat von Linkswende zum Thema „Überwachungskapitalismus:
-Autoritärer Staatsumbau in Österreich“ hören. Zudem wird Echo Lex über die
-Forderungen und den Basis-Kampf der Initiative sprechen unter dem Motto „Wir
-ITler:innen sind uns unserer Macht bewusst - wir sollten sie auch einsetzen“.
+Es ist soweit! **Am 16. Dezember um 19:00 treffen wir uns in der [Kolingasse
+11](https://www.openstreetmap.org/node/2152354084).** Dort werden wir ein
+Referat von Linkswende zum Thema „Überwachungskapitalismus: Autoritärer
+Staatsumbau in Österreich“ hören. Zudem wird Echo Lex über die Forderungen und
+den Basis-Kampf der Initiative sprechen unter dem Motto „Wir ITler:innen sind
+uns unserer Macht bewusst - wir sollten sie auch einsetzen“.
 
 Wir haben dafür auch schon einen ersten Flyer produziert:
 
@@ -30,6 +31,6 @@ Nicht vergessen, am [Donnerstag findet beim Cafe Landtmann eine
 Demo](https://bsky.app/profile/epicenter.works/post/3m5xzfcquyk27) gegen die
 Innenstadtüberwachung (organisiert von epicenter.works und Amnesty International
 Österreich) statt. Eine wichtige Demo um für unsere Forderungen einzustehen und
-die Initivative bekannter zu machen. Hoffentlich sehen sehen wir uns dort!
+die Initiative bekannter zu machen. Hoffentlich sehen sehen wir uns dort!
 
 Auf Widerstand!
