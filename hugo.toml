@@ -8,7 +8,6 @@ favicon = false
 
 [params]
   color = 'linen'
-  twitter = 'echo_v_lex'
   rss = true
 
   name = 'Um was es uns geht:'
